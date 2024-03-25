@@ -1,0 +1,49 @@
+article {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 21px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 150px; /* Altezza massima dell'immagine */
+  border-radius: 8px;
+  margin-bottom: 10px;
+  object-fit: cover; /* Scala l'immagine in modo uniforme */
+}
+
+.article-info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+button {
+  background-color: rgb(179, 212, 255);
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ba9ce4;
+}
+
+h2 {
+  margin: 10px auto 10px 0;
+}
+
+p {
+  margin: 10px auto 10px 0;
+}
+
+.article-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

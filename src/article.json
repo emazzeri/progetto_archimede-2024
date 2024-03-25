@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://img.freepik.com/foto-premium/bellissimi-campi-in-estate_874813-10448.jpg",
+    "date": "2024-03-11",
+    "likes": 10,
+    "title": "Titolo dell'articolo 1",
+    "intro": "Introduzione all'articolo 1",
+    "isLiked": true
+  },
+  {
+    "image": "https://img.freepik.com/foto-premium/campo-di-lavanda-in-estate_93675-15802.jpg",
+    "date": "2024-03-10",
+    "likes": 20,
+    "title": "Titolo dell'articolo 2",
+    "intro": "Introduzione all'articolo 2",
+    "isLiked": true
+  },
+  {
+    "image": "https://img.freepik.com/foto-premium/giacimento-della-lavanda-dopo-il-tramonto-grande-paesaggio-estivo_129479-49.jpg",
+    "date": "2024-03-09",
+    "likes": 15,
+    "title": "Titolo dell'articolo 3",
+    "intro": "Introduzione all'articolo 3",
+    "isLiked": true
+  },
+  {
+    "image": "https://img.freepik.com/foto-premium/bellissimo-campo-di-lavanda-all-alba-con-sfondo-di-fiori-viola_333900-4503.jpg",
+    "date": "2024-03-08",
+    "likes": 18,
+    "title": "Titolo dell'articolo 4",
+    "intro": "Introduzione all'articolo 4",
+    "isLiked": false
+  },
+  {
+    "image": "https://img.freepik.com/foto-premium/campo-di-lavanda-fiori-profumati-di-lavanda-bella-fioritura-con-cielo-drammatico_84633-14.jpg",
+    "date": "2024-03-07",
+    "likes": 25,
+    "title": "Titolo dell'articolo 5",
+    "intro": "Introduzione all'articolo 5",
+    "isLiked": true
+  },
+  {
+    "image": "https://img.freepik.com/foto-gratuito/inquadratura-orizzontale-di-un-campo-di-bellissimi-fiori-di-lavanda-inglese-viola-sotto-il-cielo-nuvoloso-colorato_181624-15716.jpg",
+    "date": "2024-03-06",
+    "likes": 12,
+    "title": "Titolo dell'articolo 6",
+    "intro": "Introduzione all'articolo 6",
+    "isLiked": false
+  },
+  {
+    "image": "https://img.freepik.com/foto-premium/mazzo-xaa-di-lavanda-tagliata-in-un-cesto-di-vimini-sullo-sfondo-di-campi-di-lavanda-in-fiore-concetto-di-raccolta-della-lavanda_194143-9818.jpg",
+    "date": "2024-03-05",
+    "likes": 30,
+    "title": "Titolo dell'articolo 7",
+    "intro": "Introduzione all'articolo 7",
+    "isLiked": true
+  },
+  {
+    "image": "https://img.freepik.com/foto-gratuito/ape-ad-alto-angolo-nel-campo-di-lavanda_23-2149555238.jpg",
+    "date": "2024-03-04",
+    "likes": 22,
+    "title": "Titolo dell'articolo 8",
+    "intro": "Introduzione all'articolo 8",
+    "isLiked": false
+  },
+  {
+    "image": "https://img.freepik.com/foto-gratuito/campo-di-lavanda-con-cielo-blu-francia-europa_268835-868.jpg",
+    "date": "2024-03-03",
+    "likes": 17,
+    "title": "Titolo dell'articolo 9",
+    "intro": "Introduzione all'articolo 9",
+    "isLiked": false
+  }
+]
